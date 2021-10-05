@@ -2,9 +2,9 @@
 
   \      ^..^
    \_____/\_\
-   /\   /\   - welcome to
-  /  \ /  \    my github profile!👻
-               (greeting dog)
+   /\   /\   - welcome to colin's
+  /  \ /  \    github profile!👻
+(greeting dog)
 ```
 Most of my projects are closed-source at the moment, but here are some items of mild interest:
 
