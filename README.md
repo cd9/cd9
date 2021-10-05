@@ -1,4 +1,6 @@
-### Hi there 👋
+### `welcome to my profile!` 👋
+
+Not much to see here now
 
 <!--
 **cd9/cd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<canvas></canvas>
