@@ -1,5 +1,6 @@
 ### `welcome to my github profile!` 👻
-### Items of mild interest 💡
+
+#### Most of my projects are closed-source at the moment, but here are some items of mild interest:
 
 <table align="center">
  <tr>
