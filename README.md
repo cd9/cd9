@@ -6,7 +6,7 @@
   /  \ /  \    github profile!👻
 (greeting dog)
 ```
-Most of my projects are closed-source at the moment, but here are some items of mild interest:
+Most of my projects are closed-source at the moment, but here are some projects of mild interest:
 
 <table align="center">
  <tr>
