@@ -1,19 +1,16 @@
-### `welcome to my profile!` 👋
+## `welcome to my github profile!` 👻
 
-Not much to see here now
+### Items of mild interest:
 
-<!--
-**cd9/cd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<canvas></canvas>
+<center>
+<table border="0">
+ <tr>
+    <td><img style="float:left" src=./personal_website.PNG width='200'/></td>
+    <td><a href="http://colindaly.ca"><span style="font-size:20px">My canvas-based <br/>personal website 🔗<br/></span></a></td>
+ </tr>
+ <tr>
+    <td><img style="float:left" src=./mosaics.PNG width='200'/></td>
+    <td><a href="https://github.com/cd9/gradient-mosaic-generator"><span style="font-size:20px">Experiments with <br/>album art mosaics 🔗<br/></span></a></td>
+ </tr>
+</table>
+<center>
