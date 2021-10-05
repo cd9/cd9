@@ -4,6 +4,7 @@
    \_____/\_\
    /\   /\   - welcome to colin's
   /  \ /  \    github profile!👻
+  
 (greeting dog)
 ```
 Most of my projects are closed-source at the moment, but here are some projects of mild interest:
