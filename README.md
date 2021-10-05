@@ -1,6 +1,10 @@
-### `welcome to my github profile!` 👻
-
-#### Most of my projects are closed-source at the moment, but here are some items of mild interest:
+```
+  \      ^..^
+   \_____/\_\
+   /\   /\   - welcome to
+  /  \ /  \    my github profile!👻
+```
+Most of my projects are closed-source at the moment, but here are some items of mild interest:
 
 <table align="center">
  <tr>
