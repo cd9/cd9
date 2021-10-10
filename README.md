@@ -1,9 +1,10 @@
+# `hello`👋👻
 ```
 
   \      ^..^
    \_____/\_\
    /\   /\   - welcome to colin's
-  /  \ /  \    github profile!👻
+  /  \ /  \    github profile!
   
 (greeting dog)
 ```
