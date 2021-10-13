@@ -12,7 +12,7 @@ Most of my projects are closed-source at the moment, but here are some projects 
 
 <table align="center">
  <tr>
-    <td><a href="http://colindaly.ca"><img href="http://colindaly.ca" style="float:left" src=./personal_website.PNG width='250'/></a></td>
+    <td><a href="http://colindaly.ca"><img href="http://colindaly.ca" style="float:left" src=./personal_website.gif width='250'/></a></td>
     <td><a href="http://colindaly.ca">My canvas-based personal website 🔗</a></td>
  </tr>
  <tr>
