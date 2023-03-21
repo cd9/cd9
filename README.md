@@ -8,7 +8,7 @@
   
 (greeting dog)
 ```
-Most of my projects are closed-source at the moment, but here are some projects of mild interest:
+Here are some humble projects of mild interest:
 
 <table align="center">
  <tr>
