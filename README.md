@@ -8,8 +8,8 @@
   
 (greeting dog)
 ```
+<!--
 Here are some humble projects of mild interest:
-
 <table align="center">
  <tr>
     <td><a href="http://colindaly.ca"><img href="http://colindaly.ca" style="float:left" src=./personal_website.gif width='250'/></a></td>
@@ -20,3 +20,4 @@ Here are some humble projects of mild interest:
     <td><a href="https://github.com/cd9/gradient-mosaic-generator"><span style="font-size:20px">Experiments with album art mosaics 🔗<br/></span></a></td>
  </tr>
 </table>
+-->
